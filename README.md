@@ -4,5 +4,8 @@
 * JDK 11
 * Run ChallengeApplication class as Spring Boot App
 
+### Testing with postman
+* Use postman collection in the file ./Arcual.postman_collection.json
+
 ### Reference Documentation
-* Challenge description - Backend Coding Challenge_artbeat.pdf
+* Challenge description - check ouu the file ./Backend Coding Challenge_artbeat.pdf
